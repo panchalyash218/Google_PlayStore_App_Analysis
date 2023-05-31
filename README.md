@@ -12,3 +12,6 @@ Collinearity, OLS Model in Google Collab.
 
 • Implemented models like XG Boost, Random Forest Classifier, Decision Trees etc. on regression models and 
 identified that Decision Tree is the most accurate ,90.46%
+
+
+Medium Article - https://medium.com/@panchalyash218
